@@ -1,4 +1,4 @@
-# Bitcoin Futures News Sentiment
+# Bitcoin Price Predictor
 
 This project scrapes the most recent Bitcoin news, filters to today (UTC), and combines
 news sentiment with Yahoo Finance BTC-USD pricing to infer whether BTC is likely to end
